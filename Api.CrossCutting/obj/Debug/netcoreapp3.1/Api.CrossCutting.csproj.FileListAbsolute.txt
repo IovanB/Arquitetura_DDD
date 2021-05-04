@@ -1,0 +1,9 @@
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.deps.json
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.pdb
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csprojAssemblyReference.cache
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.AssemblyInfoInputs.cache
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.AssemblyInfo.cs
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csproj.CoreCompileInputs.cache
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.pdb

@@ -1,0 +1,9 @@
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.deps.json
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.pdb
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csprojAssemblyReference.cache
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.AssemblyInfoInputs.cache
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.AssemblyInfo.cs
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.CoreCompileInputs.cache
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.pdb
