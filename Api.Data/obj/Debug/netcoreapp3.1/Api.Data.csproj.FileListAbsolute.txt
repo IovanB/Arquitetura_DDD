@@ -7,3 +7,11 @@ F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CoreCompileInputs.cache
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.pdb
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.json
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.dev.json
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CopyComplete
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.genruntimeconfig.cache
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Service.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Service.pdb

@@ -1,8 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "1h19ZeufxQbfj2p3ZGtIGt7jRdc7/zKG2QOPFIhoVKyTak/x2M1/5PxSq7L97ojjPyFnRHdABWqilEThdIdw6g==",
+  "dgSpecHash": "IxT3zdiB8ZGZFRw4aqlP3ieDGwQ4lVMDNgxDk/b+jH/bu1qa3vhlwliK2+PIk8exIAIVAEQl+gLcQ6trON9CJQ==",
   "success": true,
   "projectFilePath": "F:\\Curso_ASP_ANGULAR\\TRABALHO DDD\\Api\\Api\\Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.14\\microsoft.entityframeworkcore.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.14\\microsoft.entityframeworkcore.abstractions.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.14\\microsoft.entityframeworkcore.analyzers.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.14\\microsoft.entityframeworkcore.design.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.14\\microsoft.entityframeworkcore.relational.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.14\\microsoft.extensions.caching.abstractions.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.14\\microsoft.extensions.caching.memory.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.14\\microsoft.extensions.configuration.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.14\\microsoft.extensions.configuration.abstractions.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.14\\microsoft.extensions.configuration.binder.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.14\\microsoft.extensions.dependencyinjection.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.14\\microsoft.extensions.dependencyinjection.abstractions.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.logging\\3.1.14\\microsoft.extensions.logging.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.14\\microsoft.extensions.logging.abstractions.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.options\\3.1.14\\microsoft.extensions.options.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.14\\microsoft.extensions.primitives.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
