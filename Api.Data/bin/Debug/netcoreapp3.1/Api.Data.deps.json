@@ -276,6 +276,9 @@
         }
       },
       "Api.Service/1.0.0": {
+        "dependencies": {
+          "Api.Domain": "1.0.0"
+        },
         "runtime": {
           "Api.Service.dll": {}
         }

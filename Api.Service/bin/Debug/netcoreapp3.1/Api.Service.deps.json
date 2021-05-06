@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Api.Service/1.0.0": {
+        "dependencies": {
+          "Api.Domain": "1.0.0"
+        },
         "runtime": {
           "Api.Service.dll": {}
+        }
+      },
+      "Api.Domain/1.0.0": {
+        "runtime": {
+          "Api.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Api.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Api.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
