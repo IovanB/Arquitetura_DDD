@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "29R2aTFmje3otgfb5f2niRfXaT3k8pLnLYIOvw0DcbMTRkY5zaoAnfz0LuKAxokzMcy0TRYEdZFDCnm0lSuUxA==",
+  "dgSpecHash": "YOEIAILO/B872ImnGkXYe8ROD2HZDxrx0joLRr2gJLHFzTIjC62gqTFEbmRFqCCZjFurfpOf9x8DJmEyrVg7AA==",
   "success": true,
   "projectFilePath": "F:\\Curso_ASP_ANGULAR\\TRABALHO DDD\\Api\\Api.Data\\Api.Data.csproj",
   "expectedPackageFiles": [
@@ -16,21 +16,26 @@
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.14\\microsoft.extensions.caching.abstractions.3.1.14.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.14\\microsoft.extensions.caching.memory.3.1.14.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.14\\microsoft.extensions.configuration.3.1.14.nupkg.sha512",
-    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.14\\microsoft.extensions.configuration.abstractions.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.14\\microsoft.extensions.configuration.binder.3.1.14.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.14\\microsoft.extensions.dependencyinjection.3.1.14.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.14\\microsoft.extensions.dependencyinjection.abstractions.3.1.14.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.logging\\3.1.14\\microsoft.extensions.logging.3.1.14.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.14\\microsoft.extensions.logging.abstractions.3.1.14.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.options\\3.1.14\\microsoft.extensions.options.3.1.14.nupkg.sha512",
-    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.14\\microsoft.extensions.primitives.3.1.14.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.11.0\\microsoft.identitymodel.jsonwebtokens.6.11.0.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.identitymodel.logging\\6.11.0\\microsoft.identitymodel.logging.6.11.0.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.11.0\\microsoft.identitymodel.tokens.6.11.0.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\mysqlconnector\\0.61.0\\mysqlconnector.0.61.0.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\3.1.0\\pomelo.entityframeworkcore.mysql.3.1.0.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\pomelo.jsonobject\\2.2.1\\pomelo.jsonobject.2.2.1.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "C:\\Users\\Iovan GW\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.11.0\\system.identitymodel.tokens.jwt.6.11.0.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -57,3 +57,10 @@ F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.Cop
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\obj\Debug\netcoreapp3.1\Api.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
