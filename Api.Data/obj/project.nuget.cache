@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YOEIAILO/B872ImnGkXYe8ROD2HZDxrx0joLRr2gJLHFzTIjC62gqTFEbmRFqCCZjFurfpOf9x8DJmEyrVg7AA==",
+  "dgSpecHash": "/Ec47Z9UDSPpR61curNtQkuJeo4c6INaxfBGeah0k5j3GeWCSVTXHsMt9u6GZmT4C7PuMJCbCtn6N6jnS4JxfQ==",
   "success": true,
   "projectFilePath": "F:\\Curso_ASP_ANGULAR\\TRABALHO DDD\\Api\\Api.Data\\Api.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -35,6 +36,7 @@
     "C:\\Users\\Iovan GW\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.11.0\\system.identitymodel.tokens.jwt.6.11.0.nupkg.sha512",
+    "C:\\Users\\Iovan GW\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Iovan GW\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []

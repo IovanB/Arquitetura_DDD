@@ -8,6 +8,7 @@ F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Api.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Api.pdb
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
@@ -25,6 +26,11 @@ F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Exte
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
@@ -35,6 +41,7 @@ F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Swashbuckle.As
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Api.CrossCutting.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Api.Data.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Api.Domain.dll
@@ -57,10 +64,3 @@ F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.Cop
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\obj\Debug\netcoreapp3.1\Api.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
-F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

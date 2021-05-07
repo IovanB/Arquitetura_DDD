@@ -6,4 +6,3 @@ F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Dom
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.CoreCompileInputs.cache
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.dll
 F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.pdb
-F:\Curso_ASP_ANGULAR\TRABALHO DDD\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csprojAssemblyReference.cache
