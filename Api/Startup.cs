@@ -33,7 +33,7 @@ namespace Api
 
             ConfigureRepository.ConfigureDependenciesService(services);
 
-            var config = new AutoMapper.MapperConfiguration( cfg => {
+            var config = new MapperConfiguration( cfg => {
                 cfg.AddProfile(new DtoModelProfile());
                 cfg.AddProfile(new EntityDtoProfile());
                 cfg.AddProfile(new ModelToEntityProfile());

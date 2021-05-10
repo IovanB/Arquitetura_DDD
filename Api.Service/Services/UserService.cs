@@ -37,7 +37,7 @@ namespace Api.Service.Services
             return mapper.Map<IEnumerable<UserDto>>(listEntity);
         }
 
-        public async Task<UserDtoCreateResult> Post(UserDto user)
+        public async Task<UserDtoCreateResult> Post(UserDtoCreate user)
         {
             var model = mapper.Map<UserModel>(user); /*Converter para UserModel*/
             var entity = mapper.Map<UserEntity>(model); /*Converter para entidade para ir para o banco*/
@@ -47,7 +47,7 @@ namespace Api.Service.Services
             
         }
 
-        public async Task<UserDtoUpdateResult> Put(UserDto user)
+        public async Task<UserDtoUpdateResult> Put(UserDtoUpdate user)
         {
             var model = mapper.Map<UserModel>(user);
             var entity = mapper.Map<UserEntity>(model);
