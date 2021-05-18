@@ -17,8 +17,8 @@ namespace Api.CrossCutting.DependencyInjection
             service.AddTransient<IUserService, UserService>(); /*toda vez que injetar a dependencia, instancia a classe UserServuce*/
             service.AddTransient<ILoginService, LoginService>();
             service.AddDbContext<MyContext>(
-                 //Soptions => options.UseMySql("Server=localhost;Port=3306;Database=DbAPI;Uid=root;Pwd=root");
-                 options => options.UseSqlServer("Server =.\\SQLEXPRESS2019; Initial Catalog = dbapi; MultipleActiveResultSets = true; User ID = sa; Password = 123456"));
+                 options => options.UseMySql("Server=localhost;Port=3306;Database=DbAPI;Uid=root;Pwd=root"));
+                 //options => options.UseSqlServer("Server =.\\SQLEXPRESS2019; Initial Catalog = dbapi; MultipleActiveResultSets = true; User ID = sa; Password = 123456"));
                  //options => options.UseSqlServer(ConfigurationManager.ConnectionStrings["db1"].ConnectionString));
 
         }
